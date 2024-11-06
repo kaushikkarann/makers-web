@@ -16,9 +16,7 @@ form button:hover{
     box-shadow:inset 500px 0px 0px 0px black;
 }
 
-#main:nth-child(1n) button:hover{
-    box-shadow:inset 100vw 0px 0px 0px var(--card-back);
-}
+
 
 
 
